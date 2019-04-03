@@ -175,7 +175,11 @@
 }
 
 .about-section p {
+  font-size: 3rem;
   margin-bottom: 5rem;
+}
+.about-section h2 {
+  font-size: 1.1rem;
 }
 
 .projects-section {
