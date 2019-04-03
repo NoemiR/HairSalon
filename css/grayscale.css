@@ -12,8 +12,8 @@
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
-  color: #64a19d;
-  border: 1px solid #64a19d;
+  color: #360e1f;
+  border: 1px solid #360e1f;
 }
 
 #mainNav .navbar-toggler:focus {
@@ -82,7 +82,7 @@
   #mainNav.navbar-shrink .nav-link.active {
     color: #64a19d;
     outline: none;
-    border-bottom: 0.25rem solid #64a19d;
+    border-bottom: 0.25rem solid #360e1f;
   }
 }
 
@@ -150,7 +150,7 @@
 }
 
 .btn-primary {
-  background-color: #64a19d;
+  background-color: #360e1f;
 }
 
 .btn-primary:hover {
@@ -185,6 +185,7 @@
 .projects-section {
   padding-top: 10rem;
   padding: 10rem 0;
+  background-color: #360e1f;
 }
 
 .projects-section .featured-text {
